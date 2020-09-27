@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LiveScoreApp/static/css/main.dcc5e358.chunk.css",
+    "main.js": "/LiveScoreApp/static/js/main.b3fbc124.chunk.js",
+    "main.js.map": "/LiveScoreApp/static/js/main.b3fbc124.chunk.js.map",
+    "runtime-main.js": "/LiveScoreApp/static/js/runtime-main.ca75dc7a.js",
+    "runtime-main.js.map": "/LiveScoreApp/static/js/runtime-main.ca75dc7a.js.map",
+    "static/js/2.9c6dc6bc.chunk.js": "/LiveScoreApp/static/js/2.9c6dc6bc.chunk.js",
+    "static/js/2.9c6dc6bc.chunk.js.map": "/LiveScoreApp/static/js/2.9c6dc6bc.chunk.js.map",
+    "index.html": "/LiveScoreApp/index.html",
+    "precache-manifest.e8a16a887a8b586f59d1f3d0642936ec.js": "/LiveScoreApp/precache-manifest.e8a16a887a8b586f59d1f3d0642936ec.js",
+    "service-worker.js": "/LiveScoreApp/service-worker.js",
+    "static/css/main.dcc5e358.chunk.css.map": "/LiveScoreApp/static/css/main.dcc5e358.chunk.css.map",
+    "static/js/2.9c6dc6bc.chunk.js.LICENSE.txt": "/LiveScoreApp/static/js/2.9c6dc6bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca75dc7a.js",
+    "static/js/2.9c6dc6bc.chunk.js",
+    "static/css/main.dcc5e358.chunk.css",
+    "static/js/main.b3fbc124.chunk.js"
+  ]
+}
